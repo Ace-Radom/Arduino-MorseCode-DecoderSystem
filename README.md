@@ -1,6 +1,6 @@
 # Arduino-MorseCode-DecoderSystem
 
-[Project Closed]
+[Project Achieved and Closed, now it is Read-Only]
 
 NwT 9B私人项目 基于LCD显示屏和按钮输入的摩斯电码解码器
 
